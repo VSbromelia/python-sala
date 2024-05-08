@@ -7,7 +7,7 @@ Escreva um programa que leia a idade de uma pessoa e determine se ela é crianç
 i = int(input())
 
 if i < 12:
-    print("voce é menror de idade")
+    print("voce é menor de idade")
 elif i >= 13 and i <=19:
     print("voce é adolescente")
 elif i >= 20 and i <= 59:
