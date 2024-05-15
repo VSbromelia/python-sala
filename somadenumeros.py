@@ -1,6 +1,6 @@
 '''
-Soma dos números pares: Eles podem escrever um programa que solicita um número ao usuário e, em
-seguida, usa um loop "while" para somar todos os números pares até esse número.
+Soma de números: Solicite ao usuário para digitar uma série de números e use um loop "while" para somá-los.
+O loop continua até que o usuário digite um número negativo para indicar que terminou.
 '''
 quant = int(input())
 contador = quant
