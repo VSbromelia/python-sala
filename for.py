@@ -17,9 +17,9 @@ for l in lista:
 palavra = "Minecraft"
 for p in palavra:
     print(p)
-numeros = [10, -1, 5, 4, -9, -12]
 
 #4
+numeros = [10, -1, 5, 4, -9, -12]
 contador = 0
 for numero in numeros:
     if numero > 0:
